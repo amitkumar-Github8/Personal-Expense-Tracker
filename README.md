@@ -46,7 +46,7 @@ expense-tracker/
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/amitkumar-Github8/Personal-Expense-Tracker.git
 cd expense-tracker
 ```
 
@@ -90,7 +90,7 @@ The server listens at http://127.0.0.1:5000
 
 ### 3. Clone, Configure, and Run
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/amitkumar-Github8/Personal-Expense-Tracker.git
 cd expense-tracker
 pip install -r requirements.txt
 # Update .env for production
